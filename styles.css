@@ -80,13 +80,15 @@ ul>li:hover{
     img{
         border-radius: 10px;
     }
-   
-    
-    
-    
-      
+   }
 
-}
+
+   footer{
+   
+   padding-block: 2%;
+    background-color: black;
+    
+   }
 
 
 
